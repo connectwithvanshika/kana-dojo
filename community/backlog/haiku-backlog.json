@@ -142,5 +142,17 @@
     "notes": "Known for musical phrasing and calm motion.",
     "issued": true,
     "completed": false
-  }
+  },
+  {
+  "id": 13,
+  "japanese": "菜の花や\n月は東に\n日は西に",
+  "romaji": "Nanohana ya / tsuki wa higashi ni / hi wa nishi ni",
+  "english": "Field of rapeseed flowers; the moon in the east, the sun in the west.",
+  "poet": "Yosa Buson",
+  "season": "Spring",
+  "kigo": "Rapeseed flowers (nanohana)",
+  "notes": "A celebrated Buson haiku capturing a vast spring landscape at twilight.",
+  "issued": true,
+  "completed": false
+}
 ]
